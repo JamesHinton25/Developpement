@@ -19,8 +19,8 @@ class Header
 
 class CfgServer
 {
-    DatabaseName = "malden_life";
-    //DatabaseName = "altislife";
+    //DatabaseName = "malden_life";
+    DatabaseName = "altislife";
     DebugMode = 0;
     HeadlessSupport = 0;
 };

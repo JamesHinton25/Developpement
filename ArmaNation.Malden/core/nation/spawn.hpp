@@ -1,4 +1,4 @@
-class Impulsion_Spawn
+class ArmaNation_Spawn
 {
     class Civilian
     {

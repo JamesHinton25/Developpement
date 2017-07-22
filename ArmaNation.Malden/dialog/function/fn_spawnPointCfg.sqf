@@ -20,7 +20,7 @@ switch (_side) do {
 
 _return = [];
 
-_spawnCfg = missionConfigFile >> "Impulsion_Spawn" >> _side;
+_spawnCfg = missionConfigFile >> "ArmaNation_Spawn" >> _side;
 
 for "_i" from 0 to count(_spawnCfg)-1 do {
     _flag = true;

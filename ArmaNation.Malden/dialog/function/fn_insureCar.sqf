@@ -68,7 +68,7 @@ else
 	[_vid,_pid,_insurancePrice,player,life_garage_type] remoteExecCall ["TON_fnc_insureCar",RSERV];
 };
 
-hint parseText format [localize "STR_NOTF_InsureImpulsion", name player];
+hint parseText format [localize "STR_NOTF_InsureNation", name player];
 
 BANK = BANK - _insurancePrice;
 

@@ -254,7 +254,7 @@
             <French>Vous n'avez pas le niveau pour faire cette action.</French>
         </Key>
         <Key ID="STR_NOTF_adminHasOpenedDebug">
-            <French>-[STAFF]- %1 a ouvert la console d'Impulsion MALDEN.</French>
+            <French>-[STAFF]- %1 a ouvert la console d'Arma Nation MALDEN.</French>
         </Key>
     </Package>
     <Package name="ATM_Strings">
@@ -2274,7 +2274,7 @@
         <Key ID="STR_pInAct_SellGarage">
             <French>Vendre Garage</French>
         </Key>
-        <Key ID="STR_NOTF_InsureImpulsion">
+        <Key ID="STR_NOTF_InsureNation">
             <French>Merci &lt;t color='#1b8ebf'&gt;%1&lt;/t&gt;, votre véhicule est &lt;t color='#8cff9b'&gt;assuré&lt;/t&gt;</French>
         </Key>
         <Key ID="STR_pInAct_RemoveContainer">

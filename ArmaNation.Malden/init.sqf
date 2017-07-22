@@ -1,6 +1,6 @@
 StartProgress = false;
 
-[] execVM "core\impulsion\cron.sqf";
+[] execVM "core\nation\cron.sqf";
 [] execVM "core\functions\fn_status.sqf";
 [] execVM "core\functions\fn_autoMsg.sqf";
 

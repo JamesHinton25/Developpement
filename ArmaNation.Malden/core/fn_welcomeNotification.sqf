@@ -20,8 +20,8 @@ _text2 = _display displayCtrl 1102;
 _message = "";
 _message = _message + "<t align='center' size='8' shadow='0'><img image='textures\armalife.jpg' /></t><br /><br />";
 _message = _message + "Premier serveur Malden Life non-moddé.<br /><br />";
-_message = _message + "<a href='https://impulsion.life/' color='#56BDD6'>MaldenLife</a>, cliquez pour ouvrir notre site internet.<br /><br />";
-_message = _message + "TeamSpeak : 164.132.140.187<br /><br />";
+_message = _message + "<a href='https://' color='#56BDD6'>MaldenLife</a>, cliquez pour ouvrir notre site internet.<br /><br />";
+_message = _message + "TeamSpeak : <br /><br />";
 
 _text1 ctrlSetStructuredText (parseText _message);
 
